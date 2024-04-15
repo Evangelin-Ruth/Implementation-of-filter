@@ -30,8 +30,8 @@ Apply the filters using cv2.filter2D() for each respective filters.
 
 ```
 
- Developed By   : Monisha T
- Register Number: 212221240029
+ Developed By   : EVANGELIN S
+ Register Number: 212221230025
 
  1. Smoothing Filters
 
